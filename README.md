@@ -5,7 +5,7 @@ A stubborn coding theme I created to embrace who I am, and to remind that even i
 ![](Assets/TerminalPreview.png)
 ![](Assets/XcodePreview.png)
 
-# Install
+## Install
 
 - Clone this repository using `git`:
 ```zsh
