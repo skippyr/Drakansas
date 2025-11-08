@@ -1,9 +1,11 @@
 # Drakansas
 ## About
-A stubborn coding theme I created to embrace who I am, and to remind that even in uncertain moments, there's always hope—maybe it can inspire you too. It's available for Terminal and Xcode.
+A coding theme with feeling of home, reminding you that even in uncertain moments, there's always hope and a place where you belong—it’s just a matter of time before our worlds to collide. It's available for Xcode and Terminal on macOS 26 Tahoe.
 
-![](Assets/TerminalPreview.png)
-![](Assets/XcodePreview.png)
+![](Assets/XcodeDarkPreview.png)
+![](Assets/TerminalDarkPreview.png)
+![](Assets/XcodeLightPreview.png)
+![](Assets/TerminalLightPreview.png)
 
 ## Install
 
@@ -12,21 +14,21 @@ A stubborn coding theme I created to embrace who I am, and to remind that even i
 git clone --depth 1 https://github.com/skippyr/Drakansas
 ```
 
-- Install the Xcode theme.
+- Install the Xcode themes.
 ```zsh
-cp Drakansas/Themes/Drakansas.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+cp Drakansas/Themes/Xcode/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 - Reopen Xcode, then:
   - Open its settings.
   - Navigate to the `Themes` side menu.
-  - Select the `Drakansas` theme from the dropdown menu on the top.
+  - Select the desired theme variant from the dropdown menu at the top: `Drakansas Dark` or `Drakansas Light`.
 - Open Terminal, then:
   - Open its settings.
-  - Navigate to the `Profiles > Text` tab, then click on the `(...)` icon on the bottom, followed by `Import...`.
-  - Select the profile at `Drakansas/Themes/Drakansas.terminal`.
-  - Select it in the side bar, then click on `Default` on the bottom.
-
+  - Navigate to the `Profiles > Text` tab, then click on the `(...)` icon at the bottom, followed by `Import...`.
+  - For each profile under `Drakansas/Themes/Terminal`, select it.
+  - Select the desired variant in the side bar: `Drakansas Dark` or `Drakansas Light`, then click on `Default` at the bottom.
+  - Open a new window to start using it.
 
 ## Help
 If you need help related to this project, open a new issue in its [issues pages](https://github.com/skippyr/Drakansas/issues) or send an [e-mail](mailto:skippyr.developer@icloud.com) describing what is going on.
