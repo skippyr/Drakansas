@@ -1,6 +1,6 @@
 # Drakansas
 ## About
-A coding theme with feeling of home, reminding you that even in uncertain moments, there's always hope and a place where you belong—it’s just a matter of time before our worlds to collide. It's available for Xcode and Terminal on macOS 26 Tahoe.
+A coding theme with feeling of home, reminding you that even in uncertain moments, there's always hope and a place where you truly belong. It's available for Xcode and Terminal on macOS 26 Tahoe.
 
 ![](Assets/XcodeDarkPreview.png)
 ![](Assets/TerminalDarkPreview.png)
