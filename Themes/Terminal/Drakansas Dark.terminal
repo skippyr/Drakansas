@@ -458,10 +458,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
 	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwVFlUkbnVsbNQNDg8QERIT
-	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAKAAAAAAAABAQgAKAA18QFlNG
-	TW9ub1Rlcm1pbmFsLVJlZ3VsYXLSFxgZGlokY2xhc3NuYW1lWCRjbGFzc2VzVk5TRm9u
-	dKIZG1hOU09iamVjdAgRGiQpMjdJTFFTWF5nbnd+hY6QkpStsr3GzdAAAAAAAAABAQAA
-	AAAAAAAcAAAAAAAAAAAAAAAAAAAA2Q==
+	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAMgAAAAAAABAQgAKAA1ZNb25h
+	Y2/SFxgZGlokY2xhc3NuYW1lWCRjbGFzc2VzVk5TRm9udKIZG1hOU09iamVjdAgRGiQp
+	MjdJTFFTWF5nbnd+hY6QkpSboKu0u74AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAA
+	AAAAxw==
 	</data>
 	<key>FontAntialias</key>
 	<true/>
@@ -580,11 +580,11 @@
 	<key>WindowTitle</key>
 	<string>Terminal</string>
 	<key>columnCount</key>
-	<integer>90</integer>
+	<integer>92</integer>
 	<key>name</key>
 	<string>Drakansas Dark</string>
 	<key>rowCount</key>
-	<integer>28</integer>
+	<integer>26</integer>
 	<key>shellExitAction</key>
 	<integer>0</integer>
 	<key>type</key>

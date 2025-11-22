@@ -1,11 +1,11 @@
 # Drakansas
 ## About
-A coding theme with feeling of home, reminding you that even in uncertain moments, there's always hope and a place where you truly belong. It's available for Xcode and Terminal on macOS 26 Tahoe.
+A new default coding theme for macOS developer tools, inspired by the rare Arkansas Black apple. It’s available for Terminal and Xcode on macOS 26 Tahoe or earlier.
 
-![](Assets/XcodeDarkPreview.png)
-![](Assets/TerminalDarkPreview.png)
-![](Assets/XcodeLightPreview.png)
-![](Assets/TerminalLightPreview.png)
+![](Assets/PreviewXcodeDark.png)
+![](Assets/PreviewTerminalDark.png)
+![](Assets/PreviewXcodeLight.png)
+![](Assets/PreviewTerminalLight.png)
 
 ## Install
 
