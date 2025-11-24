@@ -419,7 +419,7 @@
 	<key>BackgroundSettingsForInactiveWindows</key>
 	<false/>
 	<key>BellBounceCritical</key>
-	<true/>
+	<false/>
 	<key>CommandString</key>
 	<string></string>
 	<key>CursorBlink</key>
@@ -458,17 +458,17 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
 	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGkCwwVFlUkbnVsbNQNDg8QERIT
-	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAMgAAAAAAABAQgAKAA1ZNb25h
-	Y2/SFxgZGlokY2xhc3NuYW1lWCRjbGFzc2VzVk5TRm9udKIZG1hOU09iamVjdAgRGiQp
-	MjdJTFFTWF5nbnd+hY6QkpSboKu0u74AAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAA
-	AAAAxw==
+	FFZOU1NpemVYTlNmRmxhZ3NWTlNOYW1lViRjbGFzcyNAJgAAAAAAABAQgAKAA18QFlNG
+	TW9ub1Rlcm1pbmFsLVJlZ3VsYXLSFxgZGlokY2xhc3NuYW1lWCRjbGFzc2VzVk5TRm9u
+	dKIZG1hOU09iamVjdAgRGiQpMjdJTFFTWF5nbnd+hY6QkpStsr3GzdAAAAAAAAABAQAA
+	AAAAAAAcAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>FontAntialias</key>
 	<true/>
 	<key>FontHeightSpacing</key>
 	<integer>1</integer>
 	<key>FontWidthSpacing</key>
-	<integer>1</integer>
+	<real>1.004</real>
 	<key>ProfileCurrentVersion</key>
 	<real>2.0899999999999999</real>
 	<key>RunCommandAsShell</key>
@@ -580,11 +580,11 @@
 	<key>WindowTitle</key>
 	<string>Terminal</string>
 	<key>columnCount</key>
-	<integer>92</integer>
+	<integer>80</integer>
 	<key>name</key>
 	<string>Drakansas Dark</string>
 	<key>rowCount</key>
-	<integer>26</integer>
+	<integer>24</integer>
 	<key>shellExitAction</key>
 	<integer>0</integer>
 	<key>type</key>

@@ -1,6 +1,6 @@
 # Drakansas
 ## About
-A new default coding theme for macOS developer tools, inspired by the rare Arkansas Black apple. It’s available for Terminal and Xcode on macOS 26 Tahoe or earlier.
+A coding theme for macOS developer tools with a unique design inspired by the rare Arkansas Black apple. It’s available for Terminal and Xcode on macOS 26 Tahoe or earlier.
 
 ![](Assets/PreviewXcodeDark.png)
 ![](Assets/PreviewTerminalDark.png)
@@ -16,13 +16,14 @@ git clone --depth 1 https://github.com/skippyr/Drakansas
 
 - Install the Xcode themes.
 ```zsh
+mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 cp Drakansas/Themes/Xcode/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 ```
 
 - Reopen Xcode, then:
   - Open its settings.
   - Navigate to the `Themes` side menu.
-  - Select the desired theme variant from the dropdown menu at the top: `Drakansas Dark` or `Drakansas Light`.
+  - Select the desired theme variant from the dropdown menu at the top: `Drakansas (Dark)` or `Drakansas (Light)`.
 - Open Terminal, then:
   - Open its settings.
   - Navigate to the `Profiles > Text` tab, then click on the `(...)` icon at the bottom, followed by `Import...`.
